@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# slightly modified version of https://github.com/ratsgo/embedding/blob/master/preprocess.sh
+
 
 COMMAND=$1
 function gdrive_download () {
