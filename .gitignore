@@ -78,3 +78,7 @@ geckodriver.log
 *.code-workspace
 .history
 .vscode
+
+
+# my own stuff
+*/data/
