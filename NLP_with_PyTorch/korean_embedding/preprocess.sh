@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # slightly modified version of https://github.com/ratsgo/embedding/blob/master/preprocess.sh
 
-
 COMMAND=$1
 function gdrive_download () {
   CONFIRM=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate "https://docs.google.com/uc?export=download&id=$1" -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')
