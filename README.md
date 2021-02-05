@@ -16,5 +16,6 @@ All implementations are in PyTorch and/or Tensorflow.
 
 ---
 
-<a name="myfootnote1">1</a>: Lee. 2019. **한국어 임베딩 (Embedding Korean)**. 에이콘 출판사. 
+<a name="myfootnote1">1</a>: Lee. 2019. **한국어 임베딩 (Embedding Korean)**. 에이콘 출판사.
+
 <a name="myfootnote1">2</a>: Bengio et al. 2003. **A neural probabilistic language model**. The journal of machine learning research, 3, 1137-1155.
