@@ -1,6 +1,6 @@
 # Natural Language Processing: DIY
 
-Implement well-known NLP models by myself.
+Implement well-known NLP models from scratch with high-level APIs.
 
 All implementations are in PyTorch and/or Tensorflow.
 
