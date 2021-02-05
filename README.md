@@ -12,6 +12,6 @@ All implementations are in PyTorch and/or Tensorflow.
     * `4_sentiment_analysis`: TBD.
 * `NLP_with_TensorFlow`: tensorflow port of `NLP_with_PyTorch`
 
-
+---
 
 <a name="myfootnote1">1</a>: Lee. 2019. **한국어 임베딩 (Embedding Korean)**. 에이콘 출판사. 
