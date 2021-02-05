@@ -9,7 +9,7 @@ All implementations are in PyTorch and/or Tensorflow.
 : Basic ideas and introduction to NLP. Contents from PyTorch tutorials.
     * `2_word_embedding`  \
 : Word embedding models. Contents mainly from research articles and Lee (2019)<sup>[1](#myfootnote1)</sup>.
-        * [Neural Probabilistic Language Model](2_word_embedding/2-1_NPLM.ipynb)<sup>[2](#myfootnote1)</sup>.
+        * [Neural Probabilistic Language Model](NLP_with_PyTorch/2_word_embedding/2-1_NPLM.ipynb)<sup>[2](#myfootnote1)</sup>.
         * Word2Vec: TBD.
     * `3_document-embedding`  \
 : Sentence/document-level embedding models. Contents mainly from research articles and Lee (2019)<sup>[1](#myfootnote1)</sup>.
