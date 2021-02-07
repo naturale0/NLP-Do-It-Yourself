@@ -83,3 +83,4 @@ geckodriver.log
 # my own stuff
 */data/
 */saved_model/
+*.pdf
