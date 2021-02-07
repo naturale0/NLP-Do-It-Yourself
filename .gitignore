@@ -84,3 +84,4 @@ geckodriver.log
 */data/
 */saved_model/
 *.pdf
+*.json
