@@ -9,17 +9,18 @@ All implementations are in PyTorch and/or Tensorflow.
       : Basic ideas and introduction to NLP. Contents from PyTorch tutorials.
     * `2_word_embedding`  \
       : Word embedding models. Contents mainly from research articles and Lee (2019)<sup>[1](#myfootnote1)</sup>.
-        * [Neural Probabilistic Language Model](NLP_with_PyTorch/2_word_embedding/2-1_NPLM.ipynb)<sup>[2](#myfootnote1)</sup>.
-        * [Word2Vec (skip gram)](NLP_with_PyTorch/2_word_embedding/2-2_skip-gram.ipynb)<sup>[3](#myfootnote3),[4](#myfootnote4)</sup>.
-        * [FastText](NLP_with_PyTorch/2_word_embedding/2-3_fasttext.ipynb)<sup>[5](#myfootnote5)</sup>.
+        * Neural Probabilistic Language Model<sup>[2](#myfootnote1)</sup>: [[notebook]](NLP_with_PyTorch/2_word_embedding/2-1_NPLM.ipynb) [[blog]](https://naturale0.github.io/machine%20learning/natural%20language%20processing/Understanding-Neural-Probabilistic-Language-Model)
+        * Word2Vec (skip gram)<sup>[3](#myfootnote3),[4](#myfootnote4)</sup>: [[notebook]](NLP_with_PyTorch/2_word_embedding/2-2_skip-gram.ipynb) [[blog]](https://naturale0.github.io/machine%20learning/natural%20language%20processing/understanding-skip-gram)
+        * FastText<sup>[5](#myfootnote5)</sup>: [[notebook]](NLP_with_PyTorch/2_word_embedding/2-3_fasttext.ipynb) [[blog]](https://naturale0.github.io/machine%20learning/natural%20language%20processing/Understanding-FastText)
     * `3_document-embedding`  \
       : Sentence/document-level embedding models. Contents mainly from research articles and Lee (2019)<sup>[1](#myfootnote1)</sup>.
     * `4_sentiment_analysis`: TBD.
+
 * **`NLP_with_TensorFlow`**  \
 : tensorflow port of `NLP_with_PyTorch`
     * `1_basics_(tutorial)`
     * `2_word_embedding`
-        * [Neural Probabilistic Language Model](NLP_with_TensorFlow/2_word_embedding/2-1_NPLM.ipynb)<sup>[2](#myfootnote1)</sup>.
+        * Neural Probabilistic Language Model<sup>[2](#myfootnote1)</sup>: [[notebook]](NLP_with_TensorFlow/2_word_embedding/2-1_NPLM.ipynb) [[blog]](https://naturale0.github.io/machine%20learning/natural%20language%20processing/Understanding-Neural-Probabilistic-Language-Model)
         * Word2Vec: TBD.
 
 ---
