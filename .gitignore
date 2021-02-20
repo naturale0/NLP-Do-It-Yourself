@@ -86,3 +86,6 @@ geckodriver.log
 *.pdf
 *.json
 *.pth
+*/.data/
+/.data
+.data/
