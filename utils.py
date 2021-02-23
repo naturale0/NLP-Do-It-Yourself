@@ -28,10 +28,10 @@ def build_vocab(words):
     """
     
     vocab, freq = list(zip(*Counter(words).items()))
-    vocab = ["<unk>", "<pad>"] + list(vocab)
-    word_to_ix = {word: ix+2 for ix, word in enumerate(vocab)}
-    word_to_ix[0] = "<unk>"
-    word_to_ix[1] = "<pad>"
+    vocab = list(vocab)
+    word_to_ix = {word: ix for ix, word in enumerate(vocab)}
+    #word_to_ix[0] = "<unk>"
+    #word_to_ix[1] = "<pad>"
     return vocab, freq, word_to_ix
 
 
