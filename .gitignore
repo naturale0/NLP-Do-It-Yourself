@@ -89,5 +89,6 @@ geckodriver.log
 */.data/
 /.data
 .data/
+torchdata/
 *.pt
 *.pickle
